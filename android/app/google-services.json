@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "197407474333",
+    "firebase_url": "https://pickngo-a696f-default-rtdb.firebaseio.com",
+    "project_id": "pickngo-a696f",
+    "storage_bucket": "pickngo-a696f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197407474333:android:fabc93db17075bdba10a74",
+        "android_client_info": {
+          "package_name": "com.example.customer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "197407474333-tcjqif5iqq2357vfhmfqguhbgrt24rem.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4MSntTcpVkcF-CDxkoJvMjeMZYqf-0Hc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "197407474333-tcjqif5iqq2357vfhmfqguhbgrt24rem.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
